@@ -22,3 +22,9 @@ Below the table, you'll see:
 - Fastest: The fastest execution time of all API calls.
 - Slowest: The slowest execution time of all API calls.
 - Average: The average execution time of all API calls.
+
+# How to run the app
+
+- Install Dependencies : npm install
+- Start the Development Server : npm start
+  This will open the application in your default browser at http://localhost:3000.
