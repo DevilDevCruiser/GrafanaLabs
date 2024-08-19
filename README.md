@@ -27,4 +27,5 @@ Below the table, you'll see:
 
 - Install Dependencies : npm install
 - Start the Development Server : npm start
-  This will open the application in your default browser at http://localhost:3000.
+
+  (This will open the application in your default browser at http://localhost:3000)
